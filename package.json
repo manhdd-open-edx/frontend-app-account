@@ -83,6 +83,7 @@
     "universal-cookie": "4.0.4"
   },
   "devDependencies": {
+    "@babel/preset-typescript": "^7.25.7",
     "@edx/browserslist-config": "1.2.0",
     "@edx/reactifex": "1.1.0",
     "@openedx/frontend-build": "14.1.5",
